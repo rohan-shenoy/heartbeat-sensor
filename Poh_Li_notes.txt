@@ -1,0 +1,33 @@
+Li
+Like/Dislike
+Works well even in environments with variations in illumination and movement
+Reduces noise from illumination/impact of illumination variations, good results on MAHNOB HCI database
+Better ROI due to facial landmarks from DRMF, tracking to resolve issue of rigid movement
+Tested on their own dataset, MAHNOB HCI, and on person playing a game
+Builds off Poh, Kwon, and Balakrishnan studies
+Seems more complicated than Poh
+
+Relevance
+Was able to detect heart rate from videos recorded using an ipad camera
+
+Challenges 
+Understanding of Discriminative Response Map Fitting, Distance Regularized Level Set Evolution, OpenCV, Matlab 
+
+Ways to Improve 
+Improve ROI tracking to deal with more extreme head movements/turns
+
+Poh
+Like/Dislike
+Able to obtain pulse from videos with minimal variation in environment
+Doesn’t handle changes that well
+Seems easier for us than Li
+
+Relevance
+Was able to detect heart rate from videos recorded using a basic webcam
+
+Challenges
+Understanding of OpenCV, ICA
+
+Ways to Improve
+Better ROI, rectangle from viola jones and classifier sometimes includes non face pixels
+Use mask similar to in Li, omit eyes
