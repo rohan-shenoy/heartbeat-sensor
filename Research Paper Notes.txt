@@ -1,0 +1,71 @@
+﻿2017 PhO2 Nam Bui
+
+
+Like/Dislike
+-Physical attribute not related, would be a large part of time but not used in final project
+-Uses blood oxygen level not heart rate
+-Uses phone pressed on chest, focuses more on depth so no knowledge of facial mapping is learned
+-Depends on how hard pressed against skin
+-It can be used live for long amounts of time
+
+
+Relevance
+-Lacks any specific relevance besides the mobile health connection, probably some similar sets of skills used but many skills needed for the final project are not used
+
+
+Challenges 
+-Creating a physical attribute
+-A lot of challenges of the project are unrelated to the final project(how hard one is pushing) 
+
+
+Improvement
+-No mention of different skin colors or skin thickness, probably some sort of error generated that could be removed
+
+
+HemaApp
+
+
+Likes/Dislikes
+-Hemoglobin measurement, not heart rate
+-Lots of the project is analysis of the measurements of Hemoglobin, this is completely unrelated
+-Noninvasive
+-Physical attribute again, easier to make
+-Physical attribute deals with problems in smartphone camera, relevant to final project
+
+
+Relevance
+-Blood oxygen instead of heart rate but this time more relevant challenges
+
+
+
+
+Challenges
+-App development
+-Physical blood collection(probably a database needs to be used)
+
+
+Improvement
+-Physical attribute seems promising but it really had a small significant impact so extending functionality and making the cameras light range wider would greatly improve the project and be directly relevant to our project
+
+
+ Seismo 
+
+
+Likes/Dislikes
+-Blood pressure, again not heart rate
+-Physical data collection done over a long period of time(would have to use a database for this likely)
+-2 out of 9 members in the final test didn't even get a final calculation
+-Large amounts of noise filtration, would not be relevant to our project
+
+
+Relevance
+-Very little relevance, different software and more physical approach to finding blood pressure
+
+
+Challenges
+-Noise reduction, especially extending the error cancellation of these researchers
+-No pre existing software is used to help, most would be created by us
+
+
+Improvement
+-2 out of the 9 in the final test had data to noisy to get a final blood pressure from, this should be investigated and changed
